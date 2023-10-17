@@ -1,7 +1,14 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: October 17th, 2023
+- Facilitator: Madelyn Kapfhammer
+- Name: Gabriel Williams
+
+_italics are cool_
+
+**bold is cooler**
+
+Hi! My name is Gabriel! I am a _new hire_ at **Lilly**!
 
 ## Class Resources
 
